@@ -1,6 +1,6 @@
 models:
   - name: stg_customers
-    description: dbt-learn for Customer data with basic cleaning and transformation applied, one row per customer.
+    description: This an unusual change Customer data with basic cleaning and transformation applied, one row per customer.
     columns:
       - name: customer_id
         description: The unique key for each customer.
