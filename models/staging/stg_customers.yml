@@ -1,10 +1,6 @@
 models:
   - name: stg_customers
-<<<<<<< HEAD
     description: This an unusual change Users data with basic cleaning and transformation applied, one row per customer.
-=======
-    description: This an unusual change Users data with basic cleaning and transformation applied, one row per customer.
->>>>>>> ee1c4b359407223a3540862665c5ee9107e65e34
     columns:
       - name: customer_id
         description: The unique key for each customer.
