@@ -1,0 +1,2 @@
+# Exclude dbt Jinja-SQL models — plpgsql grammar has no Jinja support and mis-parses these as ERROR nodes
+*.sql
